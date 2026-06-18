@@ -86,9 +86,7 @@ export default function LoginPage() {
             </Link>
           </Typography>
 
-          <Alert severity="warning" sx={{ mt: 3 }}>
-            Demo Admin: admin@hopeconnect.org / admin123
-          </Alert>
+        
         </CardContent>
       </Card>
     </Container>
